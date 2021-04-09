@@ -56,12 +56,12 @@ file:///home/kibibibit/flutter/.pub-cache/hosted/pub.dartlang.org/path-1.8.0/
 file:///home/kibibibit/flutter/.pub-cache/hosted/pub.dartlang.org/path-1.8.0/lib/
 pedantic
 2.12
-file:///home/kibibibit/flutter/.pub-cache/hosted/pub.dartlang.org/pedantic-1.10.0/
-file:///home/kibibibit/flutter/.pub-cache/hosted/pub.dartlang.org/pedantic-1.10.0/lib/
+file:///home/kibibibit/flutter/.pub-cache/hosted/pub.dartlang.org/pedantic-1.11.0/
+file:///home/kibibibit/flutter/.pub-cache/hosted/pub.dartlang.org/pedantic-1.11.0/lib/
 rxdart
-2.6
-file:///home/kibibibit/flutter/.pub-cache/hosted/pub.dartlang.org/rxdart-0.24.1/
-file:///home/kibibibit/flutter/.pub-cache/hosted/pub.dartlang.org/rxdart-0.24.1/lib/
+2.12
+file:///home/kibibibit/flutter/.pub-cache/hosted/pub.dartlang.org/rxdart-0.26.0/
+file:///home/kibibibit/flutter/.pub-cache/hosted/pub.dartlang.org/rxdart-0.26.0/lib/
 source_span
 2.12
 file:///home/kibibibit/flutter/.pub-cache/hosted/pub.dartlang.org/source_span-1.8.1/
@@ -107,7 +107,7 @@ flutter_test
 file:///home/kibibibit/flutter/packages/flutter_test/
 file:///home/kibibibit/flutter/packages/flutter_test/lib/
 flutter_google_places
-2.2
+2.12
 file:///home/kibibibit/work/flutter_google_places/
 file:///home/kibibibit/work/flutter_google_places/lib/
 2
