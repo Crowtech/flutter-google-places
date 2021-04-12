@@ -8,7 +8,7 @@ import 'package:http/http.dart';
 import 'package:rxdart/rxdart.dart';
 
 class PlacesAutocompleteWidget extends StatefulWidget {
-  final String apiKey;
+  final String? apiKey;
   final String? startText;
   final String? hint;
   final BorderRadius? overlayBorderRadius;
@@ -40,7 +40,7 @@ class PlacesAutocompleteWidget extends StatefulWidget {
   final BaseClient? httpClient;
 
   PlacesAutocompleteWidget(
-      {required this.apiKey,
+      {this.apiKey,
       this.mode = Mode.fullscreen,
       this.hint = "Search",
       this.overlayBorderRadius,
@@ -471,7 +471,7 @@ abstract class PlacesAutocompleteState extends State<PlacesAutocompleteWidget> {
 class PlacesAutocomplete {
   static Future<Prediction?> show(
       {required BuildContext context,
-      required String apiKey,
+      String? apiKey,
       Mode mode = Mode.fullscreen,
       String? hint = "Search",
       BorderRadius? overlayBorderRadius,
